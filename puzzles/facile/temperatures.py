@@ -46,5 +46,4 @@ print tmp
 #
 # Sortie
 # Affichez 0 (zero) si aucune temperature n'est fournie. Sinon, affichez la temperature la plus proche de 0
-# Contraintes
-# 0 ≤ N < 10000
+
